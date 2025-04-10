@@ -7,7 +7,16 @@ how to use the program:
 3) hit enter
 4) wait as the program generates the maze in front for you
 
+as the code runs you will be presented with a screen asking the size of maze to be generated
 ![image](https://github.com/user-attachments/assets/2833b54f-ae9f-4c1b-b754-68078027f3f1)
+
+enter the required sizze and press enter
 ![image](https://github.com/user-attachments/assets/c69011a4-4aa4-43f0-abce-1c9c199fdf1e)
+
+a new maze is generated every time .
+
+example 1)
 ![image](https://github.com/user-attachments/assets/117859da-ac7e-45e0-aea1-62f6f911284f)
+
+example 2)
 ![image](https://github.com/user-attachments/assets/3c41ab20-c60f-4ef3-9908-5b33ae7cc485)
