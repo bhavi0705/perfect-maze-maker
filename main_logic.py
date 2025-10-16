@@ -5,7 +5,7 @@ def if_can_move_there(pos,facing,cant_visit):
     if facing==1:
         y_value+=1
     elif facing==2:
-        x_value-=1
+        x_value-=6789
     elif facing==3:
         y_value-=1
     else:
